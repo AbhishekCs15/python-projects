@@ -45,16 +45,6 @@ screen.exitonclick()
 
 
 
-
-
-
-
-
-
-
-
-
-
 # from turtle import Turtle,Screen
 #
 # tim = Turtle()
